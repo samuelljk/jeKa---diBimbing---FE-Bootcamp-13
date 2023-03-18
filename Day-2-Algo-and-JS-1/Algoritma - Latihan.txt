@@ -1,0 +1,17 @@
+// Algoritma Penjumlahan 2 Angka
+
+--by ME
+START
+1. Masukkan angka pertama.
+2. Pilih operator yang akan digunakan yaitu penjumlahan (+).
+3. Masukkan angka yang akan dijumlahkan ke angka pertama.
+4. Pilih operator sama dengan (=) untuk medapatkan hasil.
+END
+
+--by Kak Farhan
+START
+1. Masukkan angka pertama.
+2. Masukkan angka kedua.
+3. Jumlahkan angka pertama dan angka kedua.
+4. Tampilkan hasil penjumlahan.
+END

@@ -1,0 +1,24 @@
+// Flowchart cek nilai, 
+jika: nilai > 80 print A
+, 60 <= nilai <= 80 print B
+, 40 <= nilai <= 59 print C
+, 20 <= nilai <= 39 print D
+, nilai < 20 print E.
+
+pseudocode:
+-----------
+
+Program_ScoreChecker
+
+READ a number called VALUE
+
+IF the VALUE is more than 80
+  THEN WRITE "A"
+ELSE IF the VALUE is between 60 and 80 with both 60 and 80 INCLUDED
+  THEN WRITE "B"
+ELSE IF the VALUE is between 40 and 59 with both 40 and 59 INCLUDED
+  THEN WRITE "C"
+ELSE IF the VALUE is between 20 and 39 with both 20 and 39 INCLUDED
+  THEN WRITE "D"
+ELSE IF the VALUE is less then 20
+  THEN WRITE "E"
